@@ -13,6 +13,12 @@ on MacOS - https://docs.aws.amazon.com/cli/latest/userguide/install-cliv2-mac.ht
 
 Pass Auth token - https://docs.aws.amazon.com/codeartifact/latest/ug/tokens-authentication.html
 
+pom.xml - https://github.com/awstechguide/aws-cicd-complete-reference-course/blob/main/springboot-dynamodb/pom.xml
+
 ## CodeBuild
+
+buildspec.yml - https://github.com/awstechguide/aws-cicd-complete-reference-course/blob/main/springboot-dynamodb/buildspec.yml
+
+dockerfile - https://github.com/awstechguide/aws-cicd-complete-reference-course/blob/main/springboot-dynamodb/Dockerfile
 
 
