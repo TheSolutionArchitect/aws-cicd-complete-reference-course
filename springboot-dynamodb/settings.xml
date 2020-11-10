@@ -1,0 +1,24 @@
+<settings xmlns="http://maven.apache.org/SETTINGS/1.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://maven.apache.org/SETTINGS/1.0.0 https://maven.apache.org/xsd/settings-1.0.0.xsd">
+<profiles>
+  <profile>
+    <id>awstechguide--awstg-demo-repo</id>
+    <activation>
+      <activeByDefault>true</activeByDefault>
+    </activation>
+    <repositories>
+      <repository>
+        <id>awstechguide--awstg-demo-repo</id>
+        <url>https://awstechguide-<aws account no>.d.codeartifact.us-east-1.amazonaws.com/maven/awstg-demo-repo/</url>
+      </repository>
+    </repositories>
+  </profile>
+</profiles>
+<servers>
+  <server>
+    <id>awstechguide--awstg-demo-repo</id>
+    <username>aws</username>
+    <password>H8IdDshMWDHPAUcWueX7A4OlGOgQSoSMmGfTGyj3w0wTSZju-JzAgcdvvx2nOLJwxGAi52MWwVWCAsm-pPEvsr0HF72Yw44MaPb2onytgBexVhwHw_3mOehAu_8wDMyAeTgp-U2z7WRuXGHevPwWz51NZ6bf3g6lRABhen3c1tlekl4wl3x-D2L0ZQI2HBiBhUnXo1DwVf17s2ZAEKbGpsbOaIkhan8J1ADBWyObLJzWSpssxl0u0Dfkrzf_0fJiNYy1lOutYkojYfMWJZg56yvhmH_7XgBQU.vX7eBSE0iPuzRd163c50dQ</password>
+  </server>
+</servers>	
+</settings>
