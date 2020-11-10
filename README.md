@@ -9,6 +9,10 @@ AWS CLI on Windows - https://docs.aws.amazon.com/cli/latest/userguide/install-cl
 on MacOS - https://docs.aws.amazon.com/cli/latest/userguide/install-cliv2-mac.html
 
 
-## CodeCommit
+## CodeArtifact Lab
+
+Pass Auth token - https://docs.aws.amazon.com/codeartifact/latest/ug/tokens-authentication.html
+
+## CodeBuild
 
 
